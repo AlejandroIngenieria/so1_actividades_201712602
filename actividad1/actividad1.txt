@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------
+                                  OPINION 1                                  
+--------------------------------------------------------------------------------
+
+- SISTEMA OPERATIVO 
+Es un sistema que te permite realizar varias cosas a la vez.
+
+- IP 
+Comunicacion.
+
+--------------------------------------------------------------------------------
+                                  OPINION 2                                 
+--------------------------------------------------------------------------------
+
+- SISTEMA OPERATIVO 
+Es el medio por el cual puedo realizar trabajos y actividades
+a traves de una computadora o algun otro dispositivo.
+
+- IP
+Seguridad para los dispositivos.
+
+--------------------------------------------------------------------------------
+                                 CONCLUSION                                  
+--------------------------------------------------------------------------------
+
+- SISTEMA OPERATIVO
+La conclusion es que el sistema operativo es un sistema que te permite realizar
+varias cosas a la vez y que es el medio por el cual puedo realizar trabajos y
+actividades a traves de una computadora o algun otro dispositivo.
+
+- IP
+La conclusion es que la IP es la comunicacion y la seguridad para los 
+dispositivos.
